@@ -5,7 +5,7 @@
 <?import javafx.scene.text.Font?>
 
 <VBox xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1">
-   <Label fx:id="Name" prefHeight="53.0" prefWidth="199.0" text="kanarM" />
+   <Label fx:id="Name" prefHeight="53.0" prefWidth="199.0" text="kanar" />
 	<!-- TODO Add Nodes -->
 	<!--<Label> "Hi there, We are using Git ! ! ! "</Label>-->
 
