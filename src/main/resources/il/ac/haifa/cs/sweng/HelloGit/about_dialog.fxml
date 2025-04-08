@@ -8,7 +8,7 @@
 	<!-- TODO Add Nodes -->
 	<!--<Label> "Hi there, We are using Git ! ! ! "</Label>-->
 
-	<Label fx:id="myName" alignment="CENTER" maxWidth="2.7976931348623157E308" text="Kanar " textAlignment="CENTER" VBox.vgrow="ALWAYS">
+	<Label fx:id="myName" alignment="CENTER" maxWidth="2.7976931348623157E308" text="Kanar" textAlignment="CENTER" VBox.vgrow="ALWAYS">
 		<font>
 			<Font size="31.0" />
 		</font>
